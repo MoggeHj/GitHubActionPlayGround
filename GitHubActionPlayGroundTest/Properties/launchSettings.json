@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "GitHubActionPlayGroundTest": {
+      "commandName": "Project"
+    },
+    "Docker": {
+      "commandName": "Docker"
+    }
+  }
+}

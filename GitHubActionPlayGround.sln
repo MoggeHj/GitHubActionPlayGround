@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33927.249
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GitHubActionPlayGround", "GitHubActionPlayGround\GitHubActionPlayGround.csproj", "{7CBDF813-751F-419E-9F1D-889884CCE64C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GitHubActionPlayGroundTest", "GitHubActionPlayGroundTest\GitHubActionPlayGroundTest.csproj", "{D98E56BF-4C60-465B-BA5B-8B08D9AD4328}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "_build", "build\_build.csproj", "{35390BD8-D133-4FD3-BC2C-46726F4D5CB5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{35390BD8-D133-4FD3-BC2C-46726F4D5CB5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35390BD8-D133-4FD3-BC2C-46726F4D5CB5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7CBDF813-751F-419E-9F1D-889884CCE64C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7CBDF813-751F-419E-9F1D-889884CCE64C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7CBDF813-751F-419E-9F1D-889884CCE64C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7CBDF813-751F-419E-9F1D-889884CCE64C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D98E56BF-4C60-465B-BA5B-8B08D9AD4328}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D98E56BF-4C60-465B-BA5B-8B08D9AD4328}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D98E56BF-4C60-465B-BA5B-8B08D9AD4328}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D98E56BF-4C60-465B-BA5B-8B08D9AD4328}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A28D6BE4-EAC3-428F-A192-23684284DBDA}
+	EndGlobalSection
+EndGlobal
